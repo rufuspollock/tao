@@ -1,6 +1,6 @@
-# Patterns for Meetings
+Patterns for meetings.
 
-See
+For now, see:
 
 - https://www.datopian.com/playbook/meetings (general)
 - https://lifeitself.org/tao/meetings (much more specific patterns)
