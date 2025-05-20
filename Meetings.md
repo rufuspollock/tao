@@ -1,6 +1,6 @@
 Patterns for meetings.
 
-- MUST: Take meeting notes, at least of actions. NB: with advance of AI and transcription taking active notes *in* the meeting may be useful. So this is *either* have a recording/transcription *or* take notes. I would still recommend have a meeting log with attendees even if you get AI transcription.
+- MUST: Take meeting notes, at least of actions. NB: with advance of AI and transcription taking active notes *in* the meeting is optional. So this is MUST *either* have a recording/transcription *or* take notes. I would still recommend have a meeting log with attendees, agenda etc even if you get AI transcription.
 - MUST: At end of meeting, process the material from the meeting (see section below)
 - SHOULD: Take meeting notes in hackmd in markdown or google docs. Markdown is the preference.
 
