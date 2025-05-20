@@ -1,4 +1,4 @@
-The **hypotheses principle**: when you have a question try to generate your own hypotheses for a solutoion _before_ seeking help or answers from someone else.
+The **hypotheses principle**: when you have a question try to generate your own hypotheses for a solution _before_ seeking help or answers from someone else.
 
 Why is creating hypotheses important when you have a question?
 
