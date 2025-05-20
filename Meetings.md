@@ -25,7 +25,7 @@ There are different **types** of meeting (or, more specifically *types of conten
 
 These distinctions are useful because it allows us to be clear on *what type of meeting you are having*, and, thus, on the *form*, *function* and expected *outputs*.
 
-Clarity also falling into "sync meeting anti-pattern" and other meeting anti-patterns.
+Clarity also helps avoid falling into the "sync meeting anti-pattern" and other meeting anti-patterns (see below).
 
 ## Processing material from meetings
 
