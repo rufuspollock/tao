@@ -1,10 +1,10 @@
 {
   "showSidebar": true,
   "showEditLink": true,
-  "favicon": "assets/climbing-mountain-lizhou-man.jpg",
+  "favicon": "assets/climbing-mountain-liuzhou-man.jpg",
   "theme": "lessflowery",
   "nav": {
-    "logo": "/assets/climbing-mountain-lizhou-man.jpg",
+    "logo": "/assets/climbing-mountain-liuzhou-man.jpg",
     "title": "Tao of Rufus",
     "social": [
       {
