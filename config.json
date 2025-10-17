@@ -1,4 +1,26 @@
 {
   "showSidebar": true,
-  "showEditLink": true
+  "showEditLink": true,
+  "favicon": "assets/climbing-mountain-lizhou-man.jpg",
+  "theme": "lessflowery",
+  "nav": {
+    "logo": "/assets/climbing-mountain-lizhou-man.jpg",
+    "title": "Tao of Rufus",
+    "social": [
+      {
+        "name": "My main website",
+        "href": "https://rufuspollock.com/"
+      },
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/rufuspollock/tao"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on Twitter",
+        "href": "https://twitter.com/rufuspollock"
+      }
+    ]
+  }
 }
