@@ -13,7 +13,7 @@ Here is a short 6m introduction to Job to be Done by Clayton Christiansen which 
 
 ## Quick Start
 
-**When** *<situation/context>*, **I want to** *\<motivations\>*, **so I can** *\<expected outcome\>*.
+**When** *situation/context*, **I want to** *motivations*, **so I can** *expected outcome*.
 
 Example:
 
@@ -109,15 +109,16 @@ For a more in depth look into the Jobs to be Done theory:
 
 [^problem-with-user-stories]: [Klement, Alan. (2013). *The Problem With User Stories and What's Better...*. Personal blog on Blogspot.](https://web.archive.org/web/20160616195445/http://alanklement.blogspot.com/2013/03/the-problem-with-user-stories-and-whats.html)
 
-**As a** *\<persona/role\>*, **I want to** *\<action\>*, **so that** \<outcome/benefit\>.
+**As a** *persona/role*, **I want to** *action*, **so that** *outcome/benefit*.
 
 * Ignores context, situations and anxieties.
 * A lot of assumptions sneak in.
 
-![too many assumptions](https://i.imgur.com/BpLmQsj.png)
+<img width="30%" alt="too many assumptions" src="https://github.com/user-attachments/assets/733b7680-f77f-4563-8d49-4b346fc374ba" />
 
 To understand why personas are irrelevant, take a look at the following series of user stories:
-![user stories table](https://miro.medium.com/max/922/1*AKw3nKW5wo3j1WvepFgOLg.jpeg)
+
+<img width="461" height="358" alt="image" src="https://github.com/user-attachments/assets/21e15f2b-f931-481e-89ea-8a6f946a9439" />
 
 Does having the persona/role in there add much?
 
