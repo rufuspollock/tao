@@ -6,6 +6,9 @@
   "nav": {
     "logo": "/assets/climbing-mountain-liuzhou-man.jpg",
     "title": "Tao of Rufus",
+    "links": [
+      { "href": "/Roadmap", "name": "Roadmap" }
+    ],
     "social": [
       {
         "name": "My main website",
