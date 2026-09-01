@@ -123,7 +123,7 @@
         <a class="rm-chip own" href="https://tao.rufuspollock.com/KISS+Principle">KISS Principle</a>
       </div>
       <div class="rm-branch">
-        <a class="rm-chip inline" href="https://tao.rufuspollock.com">Key Views</a>
+        <a class="rm-chip inline" href="https://tao.rufuspollock.com#views">Key Views</a>
       </div>
     </div>
 
