@@ -72,11 +72,13 @@
       <path d="M255,45 C300,45 300,100 315,100"/>
       <path d="M255,155 C300,155 300,100 315,100"/>
       <path d="M585,100 C650,100 650,45 745,45"/>
+      <path d="M585,100 C650,100 650,155 745,155"/>
     </svg>
     <a class="rm-box rm-side" href="https://rufuspollock.com/post/getting-things-done" style="left:70px; top:20px; width:185px;">GTD</a>
     <a class="rm-box rm-side" href="https://tao.rufuspollock.com/KISS+Principle" style="left:70px; top:130px; width:185px;">KISS Principle</a>
     <a class="rm-box rm-center" href="https://lifeitself.org/tao/getting-stuff-done" style="left:315px; top:70px; width:270px;"><span class="rm-n">02</span>Getting Stuff Done</a>
     <a class="rm-box rm-side" href="https://tao.lifeitself.org/views" style="left:745px; top:20px; width:185px;">Key Views</a>
+    <a class="rm-box rm-side" href="https://tao.rufuspollock.com/Working+with+Claude" style="left:745px; top:130px; width:185px;">Working with Claude</a>
   </div>
   <div class="rm-row" style="height: 90px;">
     <div class="rm-spine"></div>
@@ -95,11 +97,13 @@
   <div class="rm-row" style="height: 200px;">
     <div class="rm-spine"></div>
     <svg viewBox="0 0 900 200">
-      <path d="M255,100 C325,100 325,100 375,100"/>
+      <path d="M255,45 C325,45 325,100 375,100"/>
+      <path d="M255,155 C325,155 325,100 375,100"/>
       <path d="M525,100 C600,100 600,45 645,45"/>
       <path d="M525,100 C600,100 600,155 645,155"/>
     </svg>
-    <a class="rm-box rm-side" href="https://tao.rufuspollock.com/Definition+of+Done" style="left:70px; top:75px; width:185px;">Definition of Done</a>
+    <a class="rm-box rm-side" href="https://tao.rufuspollock.com/Definition+of+Done" style="left:70px; top:20px; width:185px;">Definition of Done</a>
+    <a class="rm-box rm-side" href="https://tao.rufuspollock.com/Marketing+Strategy+Structure" style="left:70px; top:130px; width:185px;">Marketing Strategy Structure</a>
     <a class="rm-box rm-center" href="https://tao.rufuspollock.com/Project+Phase+and+Status" style="left:375px; top:70px; width:150px;"><span class="rm-n">05</span>Project System</a>
     <a class="rm-box rm-side" href="https://tao.rufuspollock.com/Information+Efficiency" style="left:645px; top:20px; width:185px;">Information Efficiency</a>
     <a class="rm-box rm-side" href="https://tao.rufuspollock.com/Issues" style="left:645px; top:130px; width:185px;">Issues need the key info</a>
