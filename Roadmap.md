@@ -84,15 +84,17 @@
     <div class="rm-spine"></div>
     <a class="rm-box rm-center" href="https://tao.rufuspollock.com/Five+levels+of+agency" style="left:280px; top:15px; width:340px;"><span class="rm-n">03</span>Five Levels of Agency</a>
   </div>
-  <div class="rm-row" style="height: 130px;">
+  <div class="rm-row" style="height: 200px;">
     <div class="rm-spine"></div>
-    <svg viewBox="0 0 900 130">
-      <path d="M255,60 C325,60 325,60 340,60"/>
-      <path d="M560,60 C625,60 625,60 645,60"/>
+    <svg viewBox="0 0 900 200">
+      <path d="M255,100 C300,100 300,100 340,100"/>
+      <path d="M560,100 C625,100 625,45 645,45"/>
+      <path d="M560,100 C625,100 625,155 645,155"/>
     </svg>
-    <a class="rm-box rm-side" href="https://tao.lifeitself.org/principles/#experimentation-and-creativity" style="left:40px; top:35px; width:215px;">Experimentation and Creativity</a>
-    <a class="rm-box rm-center" href="https://tao.rufuspollock.com/Hypotheses" style="left:340px; top:22px; width:220px; height:76px;"><span class="rm-n">04</span>Hypotheses + Open-Minded Rigour</a>
-    <a class="rm-box rm-side" href="https://tao.lifeitself.org/principles/#zen--mindfulness" style="left:645px; top:35px; width:215px;">Zen and Mindfulness</a>
+    <a class="rm-box rm-side" href="https://tao.lifeitself.org/principles/#experimentation-and-creativity" style="left:40px; top:75px; width:215px;">Experimentation and Creativity</a>
+    <a class="rm-box rm-center" href="https://tao.rufuspollock.com/Hypotheses" style="left:340px; top:62px; width:220px; height:76px;"><span class="rm-n">04</span>Hypotheses + Open-Minded Rigour</a>
+    <a class="rm-box rm-side" href="https://tao.lifeitself.org/principles/#zen--mindfulness" style="left:645px; top:20px; width:215px;">Zen and Mindfulness</a>
+    <a class="rm-box rm-side" href="https://tao.rufuspollock.com/Tool+Evaluation" style="left:645px; top:130px; width:215px;">Tool Evaluation</a>
   </div>
   <div class="rm-row" style="height: 200px;">
     <div class="rm-spine"></div>
